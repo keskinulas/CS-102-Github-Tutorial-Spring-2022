@@ -1,3 +1,15 @@
 Ulaş Keskin - 22101766 - https://github.com/keskinulas
 
 Fav video game witcher
+
+PS C:\Users\Ulas\Desktop\ulas\CS-102-Github-Tutorial-Spring-2022> git log
+commit f1764dc7772c5608d543a76a8009f6544be2d7e2 (HEAD -> new_information, origin/new_information)
+Author: Ulaş Keskin <ulaskeskin2003@hotmail.com>
+Date:   Thu Feb 10 11:01:06 2022 +0300
+
+    favorite video game
+
+commit 6bc8062d04110f55648fa0c6e620a791ccceb5fd (origin/main, origin/HEAD, main)
+Author: Ulaş Keskin <ulaskeskin2003@hotmail.com>
+Date:   Thu Feb 10 10:55:30 2022 +0300
+:
